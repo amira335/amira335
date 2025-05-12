@@ -1,3 +1,4 @@
+![MasterHead] (https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg)
 <h1 align="center">Hi 👋, I'm Adna Abdirahman Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 
